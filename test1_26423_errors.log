@@ -1,0 +1,1235 @@
+The following events occurred:
+2022-07-20	06:41:26.490583	1658299286.490583: Dead call 1-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba530bd
+Call-ID: 1-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.591115	1658299286.591115: Dead call 2-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba521be
+Call-ID: 2-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.690640	1658299286.690640: Dead call 3-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d1bf
+Call-ID: 3-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.791136	1658299286.791136: Dead call 4-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba503b8
+Call-ID: 4-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.890686	1658299286.890686: Dead call 5-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5f3b9
+Call-ID: 5-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.969663	1658299286.969663: Dead call 1-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba530bd
+Call-ID: 1-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:26.991422	1658299286.991422: Dead call 6-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5e2ba
+Call-ID: 6-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.032186	1658299287.032186: Dead call 2-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba521be
+Call-ID: 2-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.091264	1658299287.091264: Dead call 7-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba512bb
+Call-ID: 7-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.157188	1658299287.157188: Dead call 3-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d1bf
+Call-ID: 3-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.190945	1658299287.190945: Dead call 8-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba547b4
+Call-ID: 8-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.282157	1658299287.282157: Dead call 4-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba503b8
+Call-ID: 4-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.290600	1658299287.290600: Dead call 9-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b7b5
+Call-ID: 9-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.344654	1658299287.344654: Dead call 5-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5f3b9
+Call-ID: 5-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.392576	1658299287.392576: Dead call 10-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5bc26
+Call-ID: 10-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.469633	1658299287.469633: Dead call 6-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5e2ba
+Call-ID: 6-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.491291	1658299287.491291: Dead call 11-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba54c27
+Call-ID: 11-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.532132	1658299287.532132: Dead call 7-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba512bb
+Call-ID: 7-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.590987	1658299287.590987: Dead call 12-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba55d24
+Call-ID: 12-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.657115	1658299287.657115: Dead call 8-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba547b4
+Call-ID: 8-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.690797	1658299287.690797: Dead call 13-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ad25
+Call-ID: 13-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.782179	1658299287.782179: Dead call 9-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b7b5
+Call-ID: 9-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.790750	1658299287.790750: Dead call 14-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba57f22
+Call-ID: 14-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.844622	1658299287.844622: Dead call 10-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5bc26
+Call-ID: 10-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.891401	1658299287.891401: Dead call 15-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba58f23
+Call-ID: 15-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.969616	1658299287.969616: Dead call 1-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba530bd
+Call-ID: 1-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.969658	1658299287.969658: Dead call 11-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba54c27
+Call-ID: 11-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:27.991231	1658299287.991231: Dead call 16-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba59e20
+Call-ID: 16-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.032135	1658299288.032135: Dead call 2-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba521be
+Call-ID: 2-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.032174	1658299288.032174: Dead call 12-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba55d24
+Call-ID: 12-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.091024	1658299288.091024: Dead call 17-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba56e21
+Call-ID: 17-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.157145	1658299288.157145: Dead call 3-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d1bf
+Call-ID: 3-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.157206	1658299288.157206: Dead call 13-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ad25
+Call-ID: 13-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.190744	1658299288.190744: Dead call 18-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53b2e
+Call-ID: 18-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.282179	1658299288.282179: Dead call 4-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba503b8
+Call-ID: 4-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.282232	1658299288.282232: Dead call 14-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba57f22
+Call-ID: 14-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.290713	1658299288.290713: Dead call 19-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cb2f
+Call-ID: 19-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.344617	1658299288.344617: Dead call 5-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5f3b9
+Call-ID: 5-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.344680	1658299288.344680: Dead call 15-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba58f23
+Call-ID: 15-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.391361	1658299288.391361: Dead call 20-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53f36
+Call-ID: 20-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.469668	1658299288.469668: Dead call 6-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5e2ba
+Call-ID: 6-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.469719	1658299288.469719: Dead call 16-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba59e20
+Call-ID: 16-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.491400	1658299288.491400: Dead call 21-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cf37
+Call-ID: 21-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.532159	1658299288.532159: Dead call 7-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba512bb
+Call-ID: 7-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.532203	1658299288.532203: Dead call 17-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba56e21
+Call-ID: 17-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.591173	1658299288.591173: Dead call 22-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5de34
+Call-ID: 22-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.657181	1658299288.657181: Dead call 8-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba547b4
+Call-ID: 8-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.657234	1658299288.657234: Dead call 18-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53b2e
+Call-ID: 18-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.691097	1658299288.691097: Dead call 23-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba52e35
+Call-ID: 23-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.782176	1658299288.782176: Dead call 9-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b7b5
+Call-ID: 9-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.782229	1658299288.782229: Dead call 19-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cb2f
+Call-ID: 19-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.790692	1658299288.790692: Dead call 24-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5fc32
+Call-ID: 24-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.844638	1658299288.844638: Dead call 10-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5bc26
+Call-ID: 10-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.844731	1658299288.844731: Dead call 20-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53f36
+Call-ID: 20-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.891697	1658299288.891697: Dead call 25-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba50c33
+Call-ID: 25-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.969648	1658299288.969648: Dead call 11-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba54c27
+Call-ID: 11-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.969695	1658299288.969695: Dead call 21-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cf37
+Call-ID: 21-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:28.991321	1658299288.991321: Dead call 26-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba51d30
+Call-ID: 26-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.032094	1658299289.032094: Dead call 12-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba55d24
+Call-ID: 12-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.032125	1658299289.032125: Dead call 22-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5de34
+Call-ID: 22-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.090900	1658299289.090900: Dead call 27-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ed31
+Call-ID: 27-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.157125	1658299289.157125: Dead call 13-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ad25
+Call-ID: 13-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.157162	1658299289.157162: Dead call 23-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba52e35
+Call-ID: 23-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.190846	1658299289.190846: Dead call 28-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b83e
+Call-ID: 28-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.282145	1658299289.282145: Dead call 14-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba57f22
+Call-ID: 14-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.282197	1658299289.282197: Dead call 24-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5fc32
+Call-ID: 24-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.290772	1658299289.290772: Dead call 29-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5483f
+Call-ID: 29-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.344684	1658299289.344684: Dead call 15-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba58f23
+Call-ID: 15-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.344744	1658299289.344744: Dead call 25-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba50c33
+Call-ID: 25-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.391595	1658299289.391595: Dead call 30-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba541b9
+Call-ID: 30-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.469680	1658299289.469680: Dead call 16-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba59e20
+Call-ID: 16-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.469734	1658299289.469734: Dead call 26-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba51d30
+Call-ID: 26-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.491418	1658299289.491418: Dead call 31-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b1b8
+Call-ID: 31-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.532158	1658299289.532158: Dead call 17-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba56e21
+Call-ID: 17-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.532222	1658299289.532222: Dead call 27-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ed31
+Call-ID: 27-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.591251	1658299289.591251: Dead call 32-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5a0bb
+Call-ID: 32-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.657215	1658299289.657215: Dead call 18-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53b2e
+Call-ID: 18-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.657262	1658299289.657262: Dead call 28-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b83e
+Call-ID: 28-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.691031	1658299289.691031: Dead call 33-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=33
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba550ba
+Call-ID: 33-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.782136	1658299289.782136: Dead call 19-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cb2f
+Call-ID: 19-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.782186	1658299289.782186: Dead call 29-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5483f
+Call-ID: 29-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.790573	1658299289.790573: Dead call 34-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=34
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba582bd
+Call-ID: 34-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.844651	1658299289.844651: Dead call 20-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53f36
+Call-ID: 20-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.844710	1658299289.844710: Dead call 30-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba541b9
+Call-ID: 30-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.891546	1658299289.891546: Dead call 35-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=35
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba572bc
+Call-ID: 35-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.969647	1658299289.969647: Dead call 1-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba530bd
+Call-ID: 1-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.969689	1658299289.969689: Dead call 21-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5cf37
+Call-ID: 21-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.969703	1658299289.969703: Dead call 31-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b1b8
+Call-ID: 31-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:29.991323	1658299289.991323: Dead call 36-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=36
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba563bf
+Call-ID: 36-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.032130	1658299290.032130: Dead call 2-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba521be
+Call-ID: 2-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.032183	1658299290.032183: Dead call 22-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5de34
+Call-ID: 22-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.032197	1658299290.032197: Dead call 32-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5a0bb
+Call-ID: 32-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.091049	1658299290.091049: Dead call 37-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=37
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba593be
+Call-ID: 37-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.157176	1658299290.157176: Dead call 3-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d1bf
+Call-ID: 3-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.157232	1658299290.157232: Dead call 23-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba52e35
+Call-ID: 23-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.157263	1658299290.157263: Dead call 33-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=33
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba550ba
+Call-ID: 33-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.190975	1658299290.190975: Dead call 38-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=38
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5c6b1
+Call-ID: 38-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.282220	1658299290.282220: Dead call 4-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba503b8
+Call-ID: 4-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.282278	1658299290.282278: Dead call 24-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5fc32
+Call-ID: 24-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.282293	1658299290.282293: Dead call 34-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=34
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba582bd
+Call-ID: 34-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.290701	1658299290.290701: Dead call 39-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=39
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba536b0
+Call-ID: 39-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.344604	1658299290.344604: Dead call 5-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5f3b9
+Call-ID: 5-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.344638	1658299290.344638: Dead call 25-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba50c33
+Call-ID: 25-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.344673	1658299290.344673: Dead call 35-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=35
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba572bc
+Call-ID: 35-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.391554	1658299290.391554: Dead call 40-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=40
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53816
+Call-ID: 40-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.469651	1658299290.469651: Dead call 6-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5e2ba
+Call-ID: 6-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.469696	1658299290.469696: Dead call 26-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba51d30
+Call-ID: 26-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.469711	1658299290.469711: Dead call 36-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=36
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba563bf
+Call-ID: 36-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.491373	1658299290.491373: Dead call 41-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=41
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5c817
+Call-ID: 41-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.532140	1658299290.532140: Dead call 7-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba512bb
+Call-ID: 7-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.533625	1658299290.533625: Dead call 27-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ed31
+Call-ID: 27-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.533650	1658299290.533650: Dead call 37-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=37
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba593be
+Call-ID: 37-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.591396	1658299290.591396: Dead call 42-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=42
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d914
+Call-ID: 42-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.657175	1658299290.657175: Dead call 8-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba547b4
+Call-ID: 8-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.657220	1658299290.657220: Dead call 28-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b83e
+Call-ID: 28-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.657233	1658299290.657233: Dead call 38-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=38
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5c6b1
+Call-ID: 38-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.690969	1658299290.690969: Dead call 43-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=43
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba52915
+Call-ID: 43-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.782176	1658299290.782176: Dead call 9-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b7b5
+Call-ID: 9-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.782229	1658299290.782229: Dead call 29-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5483f
+Call-ID: 29-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.782244	1658299290.782244: Dead call 39-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=39
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba536b0
+Call-ID: 39-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.790706	1658299290.790706: Dead call 44-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=44
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5fb12
+Call-ID: 44-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.844742	1658299290.844742: Dead call 10-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5bc26
+Call-ID: 10-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.844796	1658299290.844796: Dead call 30-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba541b9
+Call-ID: 30-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.844811	1658299290.844811: Dead call 40-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=40
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba53816
+Call-ID: 40-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.890664	1658299290.890664: Dead call 45-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=45
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba50b13
+Call-ID: 45-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.969664	1658299290.969664: Dead call 11-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba54c27
+Call-ID: 11-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.969733	1658299290.969733: Dead call 31-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5b1b8
+Call-ID: 31-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.969748	1658299290.969748: Dead call 41-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=41
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5c817
+Call-ID: 41-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:30.991437	1658299290.991437: Dead call 46-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=46
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba51a10
+Call-ID: 46-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.032152	1658299291.032152: Dead call 12-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba55d24
+Call-ID: 12-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.032192	1658299291.032192: Dead call 32-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5a0bb
+Call-ID: 32-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.032206	1658299291.032206: Dead call 42-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=42
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5d914
+Call-ID: 42-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.091285	1658299291.091285: Dead call 47-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=47
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ea11
+Call-ID: 47-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.157148	1658299291.157148: Dead call 13-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5ad25
+Call-ID: 13-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.157198	1658299291.157198: Dead call 33-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=33
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba550ba
+Call-ID: 33-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.157212	1658299291.157212: Dead call 43-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=43
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba52915
+Call-ID: 43-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:41:31.190936	1658299291.190936: Dead call 48-26423@127.0.0.1 (successful), received 'SIP/2.0 404 Not Found
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=48
+To: sut <sip:service@127.0.0.1:5060>;tag=a6a1c5f60faecf035a1ae5b6e96e979a-cba5bf1e
+Call-ID: 48-26423@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

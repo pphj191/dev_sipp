@@ -1,0 +1,322 @@
+The following events occurred:
+2022-07-20	06:50:22.241047	1658299822.241047: Dead call 1-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba505b0
+Call-ID: 1-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.291369	1658299822.291369: Dead call 2-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba514b3
+Call-ID: 2-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.390695	1658299822.390695: Dead call 3-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5e4b2
+Call-ID: 3-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.491432	1658299822.491432: Dead call 4-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba536b5
+Call-ID: 4-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.591059	1658299822.591059: Dead call 5-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c6b4
+Call-ID: 5-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.690737	1658299822.690737: Dead call 6-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d7b7
+Call-ID: 6-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.791188	1658299822.791188: Dead call 7-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba527b6
+Call-ID: 7-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.890619	1658299822.890619: Dead call 8-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba572b9
+Call-ID: 8-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:22.990737	1658299822.990737: Dead call 9-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba582b8
+Call-ID: 9-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem2mLXpa6pq3t1+WcjchhNhZp1TGTL"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.091240	1658299823.091240: Dead call 10-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5892b
+Call-ID: 10-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.191127	1658299823.191127: Dead call 11-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5792a
+Call-ID: 11-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.291347	1658299823.291347: Dead call 12-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56829
+Call-ID: 12-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.390809	1658299823.390809: Dead call 13-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59828
+Call-ID: 13-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.491252	1658299823.491252: Dead call 14-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54a2f
+Call-ID: 14-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.590765	1658299823.590765: Dead call 15-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ba2e
+Call-ID: 15-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.690957	1658299823.690957: Dead call 16-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ab2d
+Call-ID: 16-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.791102	1658299823.791102: Dead call 17-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55b2c
+Call-ID: 17-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.891059	1658299823.891059: Dead call 18-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50e23
+Call-ID: 18-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:23.990484	1658299823.990484: Dead call 19-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5fe22
+Call-ID: 19-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem22LXpa8H5CTgkDydx08jxDljJHnw"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.090995	1658299824.090995: Dead call 20-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50a3b
+Call-ID: 20-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.190376	1658299824.190376: Dead call 21-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5fa3a
+Call-ID: 21-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.290568	1658299824.290568: Dead call 22-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5eb39
+Call-ID: 22-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.390641	1658299824.390641: Dead call 23-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba51b38
+Call-ID: 23-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.491156	1658299824.491156: Dead call 24-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c93f
+Call-ID: 24-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.590521	1658299824.590521: Dead call 25-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5393e
+Call-ID: 25-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.690719	1658299824.690719: Dead call 26-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5283d
+Call-ID: 26-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.791084	1658299824.791084: Dead call 27-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d83c
+Call-ID: 27-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.890583	1658299824.890583: Dead call 28-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58d33
+Call-ID: 28-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:24.991094	1658299824.991094: Dead call 29-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57d32
+Call-ID: 29-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3GLXpbDzgOSv2/0u+cXs2HXnhrzR"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:25.091311	1658299825.091311: Dead call 30-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba574b4
+Call-ID: 30-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3WLXpbFZiz3WJAWoBOUKsFYJ6kt2"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:25.190966	1658299825.190966: Dead call 31-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba584b5
+Call-ID: 31-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3WLXpbFZiz3WJAWoBOUKsFYJ6kt2"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:50:25.291255	1658299825.291255: Dead call 32-40370@127.0.0.1 (successful), received 'SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba595b6
+Call-ID: 32-40370@127.0.0.1
+Cseq: 1 REGISTER
+WWW-Authenticate: Digest realm="127.0.0.1", nonce="Ytem3WLXpbFZiz3WJAWoBOUKsFYJ6kt2"
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

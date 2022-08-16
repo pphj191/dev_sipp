@@ -1,0 +1,49 @@
+The following events occurred:
+2022-07-22	02:18:57.018650	1658456337.018650: Dead call 1-6828@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55d5d
+Call-ID: 1-6828@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-22	02:18:57.018758	1658456337.018758: Dead call 1-6828@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55d5d
+Call-ID: 1-6828@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-22	02:18:57.119103	1658456337.119103: Dead call 2-6828@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54ff4
+Call-ID: 2-6828@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-22	02:18:57.119129	1658456337.119129: Dead call 2-6828@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54ff4
+Call-ID: 2-6828@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-22	02:18:57.219003	1658456337.219003: Dead call 3-6828@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54e1c
+Call-ID: 3-6828@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

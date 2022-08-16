@@ -1,0 +1,1218 @@
+The following events occurred:
+2022-07-21	02:31:32.903087	1658370692.903087: Dead call 1-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54b6c
+Call-ID: 1-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:32.903208	1658370692.903208: Dead call 1-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54b6c
+Call-ID: 1-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.002653	1658370693.002653: Dead call 2-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba559c5
+Call-ID: 2-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.002678	1658370693.002678: Dead call 2-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba559c5
+Call-ID: 2-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.102285	1658370693.102285: Dead call 3-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5582d
+Call-ID: 3-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.102310	1658370693.102310: Dead call 3-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5582d
+Call-ID: 3-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.202775	1658370693.202775: Dead call 4-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56c06
+Call-ID: 4-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.202805	1658370693.202805: Dead call 4-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56c06
+Call-ID: 4-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.302634	1658370693.302634: Dead call 5-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56dee
+Call-ID: 5-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.302655	1658370693.302655: Dead call 5-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56dee
+Call-ID: 5-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.402274	1658370693.402274: Dead call 6-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57f47
+Call-ID: 6-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.402305	1658370693.402305: Dead call 6-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57f47
+Call-ID: 6-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.503046	1658370693.503046: Dead call 7-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57eaf
+Call-ID: 7-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.503068	1658370693.503068: Dead call 7-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57eaf
+Call-ID: 7-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.602668	1658370693.602668: Dead call 8-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50681
+Call-ID: 8-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.602698	1658370693.602698: Dead call 8-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50681
+Call-ID: 8-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.703231	1658370693.703231: Dead call 9-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50769
+Call-ID: 9-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.703253	1658370693.703253: Dead call 9-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50769
+Call-ID: 9-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.804519	1658370693.804519: Dead call 10-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58c5e
+Call-ID: 10-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.804545	1658370693.804545: Dead call 10-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58c5e
+Call-ID: 10-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.903101	1658370693.903101: Dead call 11-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58db6
+Call-ID: 11-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:33.903136	1658370693.903136: Dead call 11-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58db6
+Call-ID: 11-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.002685	1658370694.002685: Dead call 12-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59f1f
+Call-ID: 12-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.002709	1658370694.002709: Dead call 12-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59f1f
+Call-ID: 12-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.103123	1658370694.103123: Dead call 13-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59ef7
+Call-ID: 13-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.103147	1658370694.103147: Dead call 13-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59ef7
+Call-ID: 13-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.202835	1658370694.202835: Dead call 14-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5aadc
+Call-ID: 14-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.202860	1658370694.202860: Dead call 14-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5aadc
+Call-ID: 14-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.303229	1658370694.303229: Dead call 15-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ab34
+Call-ID: 15-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.303257	1658370694.303257: Dead call 15-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ab34
+Call-ID: 15-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.402721	1658370694.402721: Dead call 16-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5b99d
+Call-ID: 16-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.402759	1658370694.402759: Dead call 16-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5b99d
+Call-ID: 16-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.502940	1658370694.502940: Dead call 17-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5b875
+Call-ID: 17-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.502968	1658370694.502968: Dead call 17-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5b875
+Call-ID: 17-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.603412	1658370694.603412: Dead call 18-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c05b
+Call-ID: 18-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.603440	1658370694.603440: Dead call 18-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c05b
+Call-ID: 18-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.702710	1658370694.702710: Dead call 19-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c1b3
+Call-ID: 19-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.702739	1658370694.702739: Dead call 19-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c1b3
+Call-ID: 19-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.802975	1658370694.802975: Dead call 20-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59d5d
+Call-ID: 20-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.803003	1658370694.803003: Dead call 20-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59d5d
+Call-ID: 20-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.902937	1658370694.902937: Dead call 21-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59cb5
+Call-ID: 21-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:34.902977	1658370694.902977: Dead call 21-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59cb5
+Call-ID: 21-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.003244	1658370695.003244: Dead call 22-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58e1c
+Call-ID: 22-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.003273	1658370695.003273: Dead call 22-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58e1c
+Call-ID: 22-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.102791	1658370695.102791: Dead call 23-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58ff4
+Call-ID: 23-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.102820	1658370695.102820: Dead call 23-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58ff4
+Call-ID: 23-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.203057	1658370695.203057: Dead call 24-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5bbdf
+Call-ID: 24-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.203103	1658370695.203103: Dead call 24-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5bbdf
+Call-ID: 24-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.303497	1658370695.303497: Dead call 25-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ba37
+Call-ID: 25-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.303521	1658370695.303521: Dead call 25-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ba37
+Call-ID: 25-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.402811	1658370695.402811: Dead call 26-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a89e
+Call-ID: 26-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.402854	1658370695.402854: Dead call 26-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a89e
+Call-ID: 26-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.503439	1658370695.503439: Dead call 27-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a976
+Call-ID: 27-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.503491	1658370695.503491: Dead call 27-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a976
+Call-ID: 27-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.603405	1658370695.603405: Dead call 28-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d158
+Call-ID: 28-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.603432	1658370695.603432: Dead call 28-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d158
+Call-ID: 28-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.702665	1658370695.702665: Dead call 29-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d0b0
+Call-ID: 29-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.702689	1658370695.702689: Dead call 29-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d0b0
+Call-ID: 29-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.802320	1658370695.802320: Dead call 30-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56d5c
+Call-ID: 30-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.802341	1658370695.802341: Dead call 30-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56d5c
+Call-ID: 30-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.903522	1658370695.903522: Dead call 31-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56cb4
+Call-ID: 31-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:35.903557	1658370695.903557: Dead call 31-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=31
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56cb4
+Call-ID: 31-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.002541	1658370696.002541: Dead call 32-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57e1d
+Call-ID: 32-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.002562	1658370696.002562: Dead call 32-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=32
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57e1d
+Call-ID: 32-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.102874	1658370696.102874: Dead call 33-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=33
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57ff5
+Call-ID: 33-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.102896	1658370696.102896: Dead call 33-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=33
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57ff5
+Call-ID: 33-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.202467	1658370696.202467: Dead call 34-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=34
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54bde
+Call-ID: 34-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.202489	1658370696.202489: Dead call 34-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=34
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54bde
+Call-ID: 34-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.303321	1658370696.303321: Dead call 35-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=35
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54a36
+Call-ID: 35-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.303343	1658370696.303343: Dead call 35-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=35
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54a36
+Call-ID: 35-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.402947	1658370696.402947: Dead call 36-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=36
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5589f
+Call-ID: 36-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.402977	1658370696.402977: Dead call 36-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=36
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5589f
+Call-ID: 36-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.502617	1658370696.502617: Dead call 37-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=37
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55977
+Call-ID: 37-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.502641	1658370696.502641: Dead call 37-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=37
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55977
+Call-ID: 37-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.602518	1658370696.602518: Dead call 38-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=38
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba52159
+Call-ID: 38-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.602542	1658370696.602542: Dead call 38-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=38
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba52159
+Call-ID: 38-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.703457	1658370696.703457: Dead call 39-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=39
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba520b1
+Call-ID: 39-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.703484	1658370696.703484: Dead call 39-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=39
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba520b1
+Call-ID: 39-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.802984	1658370696.802984: Dead call 40-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=40
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5bf5b
+Call-ID: 40-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.803009	1658370696.803009: Dead call 40-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=40
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5bf5b
+Call-ID: 40-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.902915	1658370696.902915: Dead call 41-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=41
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5beb3
+Call-ID: 41-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:36.902954	1658370696.902954: Dead call 41-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=41
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5beb3
+Call-ID: 41-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.002382	1658370697.002382: Dead call 42-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=42
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ac1a
+Call-ID: 42-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.002421	1658370697.002421: Dead call 42-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=42
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ac1a
+Call-ID: 42-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.103091	1658370697.103091: Dead call 43-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=43
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5adf2
+Call-ID: 43-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.103123	1658370697.103123: Dead call 43-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=43
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5adf2
+Call-ID: 43-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.202550	1658370697.202550: Dead call 44-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=44
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba599d9
+Call-ID: 44-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.202574	1658370697.202574: Dead call 44-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=44
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba599d9
+Call-ID: 44-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.303225	1658370697.303225: Dead call 45-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=45
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59831
+Call-ID: 45-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.303258	1658370697.303258: Dead call 45-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=45
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59831
+Call-ID: 45-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.402835	1658370697.402835: Dead call 46-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=46
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58a98
+Call-ID: 46-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.402875	1658370697.402875: Dead call 46-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=46
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58a98
+Call-ID: 46-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.502818	1658370697.502818: Dead call 47-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=47
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58b70
+Call-ID: 47-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.502840	1658370697.502840: Dead call 47-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=47
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58b70
+Call-ID: 47-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.602974	1658370697.602974: Dead call 48-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=48
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5f35e
+Call-ID: 48-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.602997	1658370697.602997: Dead call 48-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=48
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5f35e
+Call-ID: 48-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.702727	1658370697.702727: Dead call 49-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=49
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5f2b6
+Call-ID: 49-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.702758	1658370697.702758: Dead call 49-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=49
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5f2b6
+Call-ID: 49-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.802625	1658370697.802625: Dead call 50-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=50
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54f5a
+Call-ID: 50-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.802649	1658370697.802649: Dead call 50-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=50
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54f5a
+Call-ID: 50-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.903247	1658370697.903247: Dead call 51-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=51
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54eb2
+Call-ID: 51-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:37.904320	1658370697.904320: Dead call 51-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=51
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54eb2
+Call-ID: 51-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.002621	1658370698.002621: Dead call 52-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=52
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55c1b
+Call-ID: 52-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.002644	1658370698.002644: Dead call 52-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=52
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55c1b
+Call-ID: 52-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.102992	1658370698.102992: Dead call 53-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=53
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55df3
+Call-ID: 53-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.103014	1658370698.103014: Dead call 53-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=53
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55df3
+Call-ID: 53-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.202575	1658370698.202575: Dead call 54-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=54
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba569d8
+Call-ID: 54-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.202596	1658370698.202596: Dead call 54-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=54
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba569d8
+Call-ID: 54-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.302678	1658370698.302678: Dead call 55-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=55
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56830
+Call-ID: 55-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.302715	1658370698.302715: Dead call 55-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=55
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56830
+Call-ID: 55-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.403008	1658370698.403008: Dead call 56-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=56
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57a99
+Call-ID: 56-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.403037	1658370698.403037: Dead call 56-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=56
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57a99
+Call-ID: 56-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.502345	1658370698.502345: Dead call 57-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=57
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57b71
+Call-ID: 57-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.502366	1658370698.502366: Dead call 57-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=57
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57b71
+Call-ID: 57-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.602440	1658370698.602440: Dead call 58-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=58
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5035f
+Call-ID: 58-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.602461	1658370698.602461: Dead call 58-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=58
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5035f
+Call-ID: 58-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.703121	1658370698.703121: Dead call 59-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=59
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba502b7
+Call-ID: 59-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.703144	1658370698.703144: Dead call 59-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=59
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba502b7
+Call-ID: 59-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.802607	1658370698.802607: Dead call 60-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=60
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55e59
+Call-ID: 60-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.802629	1658370698.802629: Dead call 60-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=60
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55e59
+Call-ID: 60-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.902568	1658370698.902568: Dead call 61-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=61
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55fb1
+Call-ID: 61-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:38.902602	1658370698.902602: Dead call 61-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=61
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55fb1
+Call-ID: 61-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.002986	1658370699.002986: Dead call 62-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=62
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54d18
+Call-ID: 62-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.003023	1658370699.003023: Dead call 62-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=62
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54d18
+Call-ID: 62-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.102262	1658370699.102262: Dead call 63-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=63
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54cf0
+Call-ID: 63-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.102286	1658370699.102286: Dead call 63-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=63
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54cf0
+Call-ID: 63-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.202602	1658370699.202602: Dead call 64-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=64
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba578db
+Call-ID: 64-1243@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	02:31:39.202624	1658370699.202624: Dead call 64-1243@127.0.0.1 (successful), received 'SIP/2.0 200 OK
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=64
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba578db
+Call-ID: 64-1243@127.0.0.1
+Cseq: 1 REGISTER
+Contact: <sip:sipp@127.0.0.1:5061>;expires=3600
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

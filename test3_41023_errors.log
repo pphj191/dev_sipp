@@ -1,0 +1,218 @@
+The following events occurred:
+2022-07-20	07:48:49.043034	1658303329.043034: Dead call 1-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=1
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372f090
+Call-ID: 1-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.142996	1658303329.142996: Dead call 2-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=2
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372bb05
+Call-ID: 2-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.243188	1658303329.243188: Dead call 3-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=3
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3727d76
+Call-ID: 3-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.342267	1658303329.342267: Dead call 4-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=4
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3723d3e
+Call-ID: 4-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.442546	1658303329.442546: Dead call 5-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=5
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372fb4d
+Call-ID: 5-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.542570	1658303329.542570: Dead call 6-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=6
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372b0d8
+Call-ID: 6-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.642504	1658303329.642504: Dead call 7-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=7
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c37276ab
+Call-ID: 7-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.743126	1658303329.743126: Dead call 8-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=8
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c37221d8
+Call-ID: 8-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.843190	1658303329.843190: Dead call 9-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=9
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372e7ab
+Call-ID: 9-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:49.943804	1658303329.943804: Dead call 10-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=10
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3729033
+Call-ID: 10-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.042729	1658303330.042729: Dead call 11-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=11
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3725640
+Call-ID: 11-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.142727	1658303330.142727: Dead call 12-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=12
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3721dd5
+Call-ID: 12-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.242687	1658303330.242687: Dead call 13-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=13
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372dba6
+Call-ID: 13-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.342902	1658303330.342902: Dead call 14-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=14
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3729bee
+Call-ID: 14-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.443128	1658303330.443128: Dead call 15-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=15
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3725d9d
+Call-ID: 15-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.542218	1658303330.542218: Dead call 16-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=16
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3721608
+Call-ID: 16-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.642399	1658303330.642399: Dead call 17-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=17
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372d07b
+Call-ID: 17-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.742212	1658303330.742212: Dead call 18-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=18
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c3728708
+Call-ID: 18-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.842218	1658303330.842218: Dead call 19-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=19
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372417b
+Call-ID: 19-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:50.942360	1658303330.942360: Dead call 20-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=20
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372ff0c
+Call-ID: 20-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:51.043001	1658303331.043001: Dead call 21-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=21
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372397f
+Call-ID: 21-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:51.142995	1658303331.142995: Dead call 22-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=22
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c37272ea
+Call-ID: 22-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:51.242996	1658303331.242996: Dead call 23-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=23
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372b499
+Call-ID: 23-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	07:48:51.342190	1658303331.342190: Dead call 24-41023@172.31.44.182 (successful), received 'SIP/2.0 480 Unavailable
+Via: SIP/2.0/UDP 172.31.44.182:5061
+From: sipp <sip:sipp@172.31.44.182:5061>;tag=24
+To: sut <sip:service@172.31.44.182:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.c372f4d1
+Call-ID: 24-41023@172.31.44.182
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

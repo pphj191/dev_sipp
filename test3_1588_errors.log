@@ -1,0 +1,20 @@
+The following events occurred:
+2022-08-01	00:25:14.506603	1659313514.506603: Dead call 1-1588@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 1-1588@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-08-01	00:25:14.589706	1659313514.589706: Dead call 2-1588@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 2-1588@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

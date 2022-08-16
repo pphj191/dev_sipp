@@ -1,0 +1,254 @@
+The following events occurred:
+2022-07-20	06:47:40.919752	1658299660.919752: Dead call 1-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5df9c
+Call-ID: 1-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.019523	1658299661.019523: Dead call 2-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ce9f
+Call-ID: 2-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.119663	1658299661.119663: Dead call 3-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba53e9e
+Call-ID: 3-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.218170	1658299661.218170: Dead call 4-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5ec99
+Call-ID: 4-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.318780	1658299661.318780: Dead call 5-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba51c98
+Call-ID: 5-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.418709	1658299661.418709: Dead call 6-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50d9b
+Call-ID: 6-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.518712	1658299661.518712: Dead call 7-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5fd9a
+Call-ID: 7-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.619089	1658299661.619089: Dead call 8-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a895
+Call-ID: 8-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.718739	1658299661.718739: Dead call 9-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55894
+Call-ID: 9-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.818650	1658299661.818650: Dead call 10-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba55307
+Call-ID: 10-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:41.919226	1658299661.919226: Dead call 11-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5a306
+Call-ID: 11-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.019158	1658299662.019158: Dead call 12-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5b205
+Call-ID: 12-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.118962	1658299662.118962: Dead call 13-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba54204
+Call-ID: 13-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.219049	1658299662.219049: Dead call 14-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba59003
+Call-ID: 14-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.318173	1658299662.318173: Dead call 15-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba56002
+Call-ID: 15-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.419152	1658299662.419152: Dead call 16-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba57101
+Call-ID: 16-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.518947	1658299662.518947: Dead call 17-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba58100
+Call-ID: 17-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.618697	1658299662.618697: Dead call 18-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d40f
+Call-ID: 18-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.718512	1658299662.718512: Dead call 19-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5240e
+Call-ID: 19-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.818454	1658299662.818454: Dead call 20-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5d017
+Call-ID: 20-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:42.918445	1658299662.918445: Dead call 21-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba52016
+Call-ID: 21-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.018295	1658299663.018295: Dead call 22-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba53115
+Call-ID: 22-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.119231	1658299663.119231: Dead call 23-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5c114
+Call-ID: 23-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.219073	1658299663.219073: Dead call 24-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba51313
+Call-ID: 24-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.318923	1658299663.318923: Dead call 25-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5e312
+Call-ID: 25-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.419002	1658299663.419002: Dead call 26-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5f211
+Call-ID: 26-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.518875	1658299663.518875: Dead call 27-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba50210
+Call-ID: 27-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	06:47:43.618895	1658299663.618895: Dead call 28-26469@127.0.0.1 (successful), received 'SIP/2.0 400 CSeq method does not match request method
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+To: sut <sip:service@127.0.0.1:5060>;tag=9dd61ff61e802d8e2bef5f14621ef3c2.cba5571f
+Call-ID: 28-26469@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

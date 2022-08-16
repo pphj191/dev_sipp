@@ -1,0 +1,218 @@
+The following events occurred:
+2022-07-21	01:01:36.919085	1658365296.919085: Dead call 1-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 1-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.018716	1658365297.018716: Dead call 2-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 2-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.118947	1658365297.118947: Dead call 3-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 3-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.219063	1658365297.219063: Dead call 4-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 4-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.318278	1658365297.318278: Dead call 5-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 5-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.418443	1658365297.418443: Dead call 6-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 6-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.518696	1658365297.518696: Dead call 7-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 7-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.618684	1658365297.618684: Dead call 8-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 8-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.718858	1658365297.718858: Dead call 9-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 9-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.818237	1658365297.818237: Dead call 10-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 10-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:37.918884	1658365297.918884: Dead call 11-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 11-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.018113	1658365298.018113: Dead call 12-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 12-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.118121	1658365298.118121: Dead call 13-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 13-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.218892	1658365298.218892: Dead call 14-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 14-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.318395	1658365298.318395: Dead call 15-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 15-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.418643	1658365298.418643: Dead call 16-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 16-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.518975	1658365298.518975: Dead call 17-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 17-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.618328	1658365298.618328: Dead call 18-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 18-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.718364	1658365298.718364: Dead call 19-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 19-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.818323	1658365298.818323: Dead call 20-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 20-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:38.918216	1658365298.918216: Dead call 21-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 21-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:39.018443	1658365299.018443: Dead call 22-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 22-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:39.118649	1658365299.118649: Dead call 23-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 23-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-21	01:01:39.218717	1658365299.218717: Dead call 24-45162@127.0.0.1 (successful), received 'SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+To: sut <sip:service@127.0.0.1:5060>
+Call-ID: 24-45162@127.0.0.1
+Cseq: 1 INVITE
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'

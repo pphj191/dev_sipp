@@ -1,0 +1,242 @@
+The following events occurred:
+2022-07-20	23:42:23.379267	1658360543.379267: Dead call 1-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=1
+Call-ID: 1-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.479184	1658360543.479184: Dead call 2-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=2
+Call-ID: 2-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.578793	1658360543.578793: Dead call 3-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=3
+Call-ID: 3-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.679407	1658360543.679407: Dead call 4-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=4
+Call-ID: 4-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.778903	1658360543.778903: Dead call 5-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=5
+Call-ID: 5-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.879309	1658360543.879309: Dead call 6-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=6
+Call-ID: 6-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:23.978792	1658360543.978792: Dead call 7-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=7
+Call-ID: 7-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.079193	1658360544.079193: Dead call 8-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=8
+Call-ID: 8-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.179136	1658360544.179136: Dead call 9-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=9
+Call-ID: 9-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.278578	1658360544.278578: Dead call 10-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=10
+Call-ID: 10-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.378690	1658360544.378690: Dead call 11-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=11
+Call-ID: 11-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.479042	1658360544.479042: Dead call 12-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=12
+Call-ID: 12-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.578207	1658360544.578207: Dead call 13-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=13
+Call-ID: 13-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.678684	1658360544.678684: Dead call 14-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=14
+Call-ID: 14-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.778800	1658360544.778800: Dead call 15-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=15
+Call-ID: 15-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.878205	1658360544.878205: Dead call 16-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=16
+Call-ID: 16-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:24.978683	1658360544.978683: Dead call 17-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=17
+Call-ID: 17-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.079226	1658360545.079226: Dead call 18-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=18
+Call-ID: 18-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.178400	1658360545.178400: Dead call 19-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=19
+Call-ID: 19-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.278682	1658360545.278682: Dead call 20-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=20
+Call-ID: 20-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.378440	1658360545.378440: Dead call 21-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=21
+Call-ID: 21-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.478369	1658360545.478369: Dead call 22-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=22
+Call-ID: 22-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.578761	1658360545.578761: Dead call 23-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=23
+Call-ID: 23-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.678979	1658360545.678979: Dead call 24-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=24
+Call-ID: 24-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.779138	1658360545.779138: Dead call 25-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=25
+Call-ID: 25-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.879121	1658360545.879121: Dead call 26-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=26
+Call-ID: 26-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:25.978359	1658360545.978359: Dead call 27-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=27
+Call-ID: 27-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:26.078425	1658360546.078425: Dead call 28-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=28
+Call-ID: 28-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:26.178552	1658360546.178552: Dead call 29-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=29
+Call-ID: 29-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'2022-07-20	23:42:26.279024	1658360546.279024: Dead call 30-44658@127.0.0.1 (successful), received 'SIP/2.0 501 Not Implemented
+Via: SIP/2.0/UDP 127.0.0.1:5061
+From: sipp <sip:sipp@127.0.0.1:5061>;tag=30
+Call-ID: 30-44658@127.0.0.1
+Cseq: 1 REGISTER
+Server: kamailio (5.3.9 (x86_64/linux))
+Content-Length: 0
+
+'
