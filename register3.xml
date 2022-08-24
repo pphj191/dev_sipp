@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<scenario name="Basic Sipstone UAC">
+  <send>
+    <![CDATA[
+
+	REGISTER sip:ims.mnc001.mcc001.3gppnetwork.org SIP/2.0
+        Via: SIP/2.0/UDP 192.168.4.2:5060;branch=z9hG4bK-524287-1---c41c5e3108e63530;rport;transport=UDP
+        Max-Forwards: 70
+        Proxy-Require: sec-agree
+        Require: sec-agree
+        Contact: <sip:001010000000013@192.168.4.2:5060>;reg-id=1;+sip.instance="<urn:gsma:imei:35420411-037727-0>";q=1.0;+g.3gpp.icsi-ref="urn%3Aurn-7%3A3gpp-service.ims.icsi.mmtel";video;+g.3gpp.smsip
+        To: <sip:001010000000013@ims.mnc001.mcc001.3gppnetwork.org>
+        From: <sip:001010000000013@ims.mnc001.mcc001.3gppnetwork.org>;tag=f624640d
+        Call-ID: yx2I3Oxv15hejZmb1jfwFg..@192.168.4.2
+        CSeq: 1 REGISTER
+        Expires: 600000
+        Supported: path, sec-agree
+        User-Agent: TTA-VoLTE/3.0 SM-G986N/VE4_VE3 Device_Type/Android_Phone KT
+        Authorization: Digest username="001010000000013@ims.mnc001.mcc001.3gppnetwork.org",realm="ims.mnc008.mcc450.3gppnetwork.org",uri="sip:ims.mnc008.mcc450.3gppnetwork.org",nonce="",response="",algorithm=AKAv1-MD5
+        Security-Client: ipsec-3gpp;prot=esp;mod=trans;spi-c=85264;spi-s=85265;port-c=9601;port-s=9600;alg=hmac-sha-1-96;ealg=aes-cbc
+        P-TTA-MCID-Info: ver=1.0
+        Content-Length: 0
+
+    ]]>
+  </send>
+  <recv response="200"
+	optional="true">
+  </recv>
+
+  <recv response="401"
+        auth="true">
+  </recv>
+</scenario>

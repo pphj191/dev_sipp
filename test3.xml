@@ -3,10 +3,10 @@
   <send>
     <![CDATA[
 
-      INVITE sip:[service]@[remote_ip]:[remote_port] SIP/2.0
+      REGISTER sip:pcscf@52.78.27.145:5060 SIP/2.0
       Via: SIP/2.0/[transport] [local_ip]:[local_port]
       From: sipp <sip:sipp@[local_ip]:[local_port]>;tag=[call_number]
-      To: sut <sip:[service]@[remote_ip]:[remote_port]>
+      To: sut <sip:pcscf@52.78.27.145:5060>
       User-Agent: SLICK IMS 4.0.0		      
       Call-ID: [call_id]
       Cseq: 1 INVITE
